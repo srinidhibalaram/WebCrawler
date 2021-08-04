@@ -1,0 +1,6 @@
+com/example/model/WebPage.java
+ com.example.model.WebPage
+com/example/model/WebCrawler.java
+ com.example.model.WebCrawler
+com/example/springboot/Application.java
+ com.example.springboot.Application
